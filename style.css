@@ -492,3 +492,11 @@ footer {
     padding-top: 50px;
     text-align: center;
 }
+
+@media (min-width:1241px) {
+
+}
+
+@media (min-width:769px) and (max-widht:1240px) {
+    
+}
